@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Python 安装/配置](chapter1.md)
 * [Markdown](markdown.md)
-* git
+* [git](git.md)
 * github
 
