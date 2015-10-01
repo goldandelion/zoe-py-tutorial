@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Python 安装/配置](chapter1.md)
 * Markdown
 * git
 * github
