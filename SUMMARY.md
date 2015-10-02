@@ -6,4 +6,5 @@
 * [git](git.md)
 * [github](github.md)
 * [Shell](shell.md)
+* 初心
 
