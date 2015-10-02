@@ -5,7 +5,7 @@
 - ctrl c 中断
 - ctrl d 退出 ends of file , not any more input coming
 - ctrl r 搜索命令
-- Tab - 自动完成到可以完成的最远的地方 Tab Again
+- Tab Completion - 自动完成到可以完成的最远的地方 Tab Again
 
 
 ##命令
