@@ -7,5 +7,5 @@
 * [git](git.md)
 * [github](github.md)
 * [Command](command.md)
-* TextEditor
+* [TextEditor](text-editor.md)
 
