@@ -1,6 +1,6 @@
-# Git安装
+# Git
 
-## Mac安装Git指引
+## 安装Git到Mac上
 ### 下载
 [Git下载](http://git-scm.com/download/mac)
 ###安装
