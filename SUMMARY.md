@@ -7,6 +7,7 @@
 * [Python 安装/配置](setup.md)
 * [Markdown](markdown.md)
 * [git](git.md)
+   * git setup
 * [github](github.md)
 * [Command](command.md)
 * [TextEditor](text-editor.md)
