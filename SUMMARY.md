@@ -1,7 +1,7 @@
 # Summary
 
 * [Zoe的Python星际之旅](README.md)
-* Week0:旅途开始
+* [Week0:旅途开始](week0.md)
    * [缘起](ch1-start.md)
    * [初心](start.md)
 * [Week1：初识Git](git.md)
