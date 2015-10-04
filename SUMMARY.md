@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Week
+* Week0:旅途开始
    * [缘起](ch1-start.md)
    * [初心](start.md)
 * [git](git.md)
