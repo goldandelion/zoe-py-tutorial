@@ -10,5 +10,5 @@
 * [Command](command.md)
 * [TextEditor](text-editor.md)
 * Chapter 1 - Start
-   * 缘起
+   * [缘起](ch1-start.md)
 
