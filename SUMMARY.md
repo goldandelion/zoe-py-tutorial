@@ -6,6 +6,7 @@
    * [初心](start.md)
 * [Week1：初识Git](git.md)
    * [git安装](git_setup.md)
+       * 复制与探索Repository
 * [未完成章节](to-be-continue.md)
    * [Markdown](markdown.md)
    * [github](github.md)
