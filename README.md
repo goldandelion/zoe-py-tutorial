@@ -1,4 +1,8 @@
-Zoe Py 入门指南
+Zoe的Python星际之旅
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+星际之旅，即将启航。  
+我们一起，穿越时空隧道，探索好玩的Python吧。
+
+
+在这里记录，Zoe从零开始的Python旅途。
