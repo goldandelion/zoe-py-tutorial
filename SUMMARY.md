@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Zoe的Python星际之旅](README.md)
 * Week0:旅途开始
    * [缘起](ch1-start.md)
    * [初心](start.md)
