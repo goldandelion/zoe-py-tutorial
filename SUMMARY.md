@@ -2,7 +2,7 @@
 
 * [Zoe的Python星际之旅](README.md)
 * [Week0:旅途开始](week0.md)
-   * [缘起](ch1-start.md)
+   * [缘起-为何开始](ch1-start.md)
    * [初心](start.md)
 * [Week1：搭建自己的学习环境](week1.md)
    * [Git安装](git-setup.md)
