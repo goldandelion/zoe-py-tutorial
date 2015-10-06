@@ -4,7 +4,7 @@
 * [Week0:旅途开始](week0.md)
    * [缘起](ch1-start.md)
    * [初心](start.md)
-* [Week1：搭建自己的学习环境](git.md)
+* [Week1：搭建自己的学习环境](week1.md)
    * [Git安装](git-setup.md)
    * [Git学习笔记](discovery-repo.md)
 * [未完成章节](to-be-continue.md)
