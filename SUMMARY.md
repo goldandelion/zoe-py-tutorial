@@ -8,6 +8,7 @@
 * [Week1：搭建自己的学习环境](week1.md)
    * [Git安装](git-setup.md)
    * [Git学习笔记](discovery-repo.md)
+   * Gitbook与Github账号互推
 * [未完成章节](to-be-continue.md)
    * [Markdown](markdown.md)
    * [github](github.md)
