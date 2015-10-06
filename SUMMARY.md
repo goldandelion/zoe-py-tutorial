@@ -3,7 +3,7 @@
 * [Zoe的Python星际之旅](README.md)
 * [Week0:旅途开始](week0.md)
    * [缘起-为何开始](ch1-start.md)
-   * [入学三问](go-school.md)
+   * [入学三问-从这里启航](go-school.md)
    * [初心-是什么打动了我](start.md)
 * [Week1：搭建自己的学习环境](week1.md)
    * [Git安装](git-setup.md)
