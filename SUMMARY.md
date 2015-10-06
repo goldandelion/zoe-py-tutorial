@@ -5,7 +5,7 @@
    * [缘起](ch1-start.md)
    * [初心](start.md)
 * [Week1：初识Git](git.md)
-   * [git安装](git-setup.md)
+   * [Git安装](git-setup.md)
    * [Git学习笔记](discovery-repo.md)
 * [未完成章节](to-be-continue.md)
    * [Markdown](markdown.md)
