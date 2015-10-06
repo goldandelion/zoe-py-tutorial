@@ -1,4 +1,4 @@
-# 缘起
+# 缘起 - 为何开始
 
 >你是编程小白，渴望学会编程，退缩、动摇，但坚持三个月后能做啥？
 ——[人生苦短，Python当歌](http://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=207970482&idx=1&sn=a41bc7a515fd87514cfa1b976bc4e423&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
