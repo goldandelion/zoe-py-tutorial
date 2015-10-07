@@ -10,7 +10,7 @@
 * [Week1：搭建自己的学习环境](week1.md)
    * [Sublime配置](text-editor.md)
    * [Command Line笔记](command.md)
-   * [Git安装](git-setup.md)
+   * [Git安装与工作环境配置](git-setup.md)
    * [Git学习笔记](discovery-repo.md)
    * [Gitbook与Github互推](gitbook-github.md)
    * [为Gitbook添加评论](gitbook-comment.md)
