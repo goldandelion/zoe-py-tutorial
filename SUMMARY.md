@@ -14,6 +14,6 @@
 * [未完成章节](to-be-continue.md)
    * [Markdown](markdown.md)
    * [github](github.md)
-   * [Command](command.md)
+   * [Command Line笔记](command.md)
    * [Python 安装/配置](setup.md)
 
