@@ -18,7 +18,4 @@
        * [Gitbook与Github互推](gitbook-github.md)
        * [为Gitbook添加评论](gitbook-comment.md)
 * [Week2:直面生活](week2.md)
-* [未完成章节](to-be-continue.md)
-   * [Python 安装/配置](setup.md)
-
 
