@@ -14,6 +14,6 @@
    * [Markdown](markdown.md)
    * [github](github.md)
    * [Command](command.md)
-   * [TextEditor](text-editor.md)
+   * [Sublime](text-editor.md)
    * [Python 安装/配置](setup.md)
 
