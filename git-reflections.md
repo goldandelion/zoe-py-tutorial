@@ -1,7 +1,5 @@
 # Git学习笔记
 
-# Git学习笔记
-
 ## Lesson 1
 ###  How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
