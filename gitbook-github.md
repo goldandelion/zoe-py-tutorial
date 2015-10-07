@@ -28,8 +28,8 @@ Transferring content to GitHub
 - Enter your GitBook git url,   
 for example: https://git.gitbook.com/MyName/MyBook.git   
 (this url can be found in your book settings).  
-打开网站右上角的“MY BOOKS”，点击你想传送的书名。
-打开后，选择右下角的“Settings”。
+打开网站右上角的“MY BOOKS”，点击你想传送的书名。  
+打开后，选择右下角的“Settings”。  
 页面往下翻，可以看到有个Git URL，就是这里要用的地址。
 - Enter a name for your GitHub repository.
 - Enter your GitBook credentials (you can use your API token instead of your password) when prompted.
