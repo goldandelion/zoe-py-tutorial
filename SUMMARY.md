@@ -15,6 +15,6 @@
    * [Gitbook与Github互推](gitbook-github.md)
    * [为Gitbook添加评论](gitbook-comment.md)
 * [未完成章节](to-be-continue.md)
-   * [github](github.md)
+   * [git](git.md)
    * [Python 安装/配置](setup.md)
 
