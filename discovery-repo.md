@@ -1,4 +1,7 @@
-# 复制与探索Repository
+# Git操作笔记
+
+##Git Cheat Sheat
+[Git Cheat Sheat pdf下载](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
 ## Q & A
 ### 什么是Repository
