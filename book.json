@@ -1,8 +1,11 @@
-{
-    "plugins": ["disqus"],
+{"title": "Zoe Jane",
+    "description": "Zoe的Python之旅",
+    "author": "Zoe Jane <dadac123@gmail.com",
+
+    "plugins": [
+        "disqus"
+    ],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "zoejane"
-        }
-    }  
+        "shortName": "zoejane"
+    }
 }
