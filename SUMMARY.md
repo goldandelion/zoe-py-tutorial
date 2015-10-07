@@ -19,5 +19,5 @@
        * [为Gitbook添加评论](gitbook-comment.md)
 * [未完成章节](to-be-continue.md)
    * [Python 安装/配置](setup.md)
-* Week2:直面生活
+* [Week2:直面生活](week2.md)
 
