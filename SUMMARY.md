@@ -18,5 +18,6 @@
        * [Gitbook与Github互推](gitbook-github.md)
        * [为Gitbook添加评论](gitbook-comment.md)
 * [Week2:直面生活](week2.md)
-    * [工作中两种类型的事情](work-thinking.md)
+   * [工作中两种类型的事情](work-thinking.md)
+   * 工作问题解决思路
 
