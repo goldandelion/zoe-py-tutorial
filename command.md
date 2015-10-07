@@ -1,4 +1,4 @@
-# Shell
+# Command Line学习笔记
 
 ##快捷键
 
@@ -56,6 +56,37 @@
 - nano - text editor
 
 - pwd - print working directory
+
+
+- cd - change directory 
+- cd ..
+- cd /     (回到root目录；abusolute path)
+relative path（从working directory开始）
+- cd ~ (回到home directory)
+- cd (回到home directory)
+
+
+
+- mv - move (or rename)
+- cp - copy
+- mv junk trash  
+如果有trash目录 move junk to trash目录  
+如果没有trash目录  rename junk to trash  
+
+
+- mkdir - create new directories
+- rmdir - remove directories
+- rm -r junk 删除非空的junk目录
+
+
+-man glob（globbing）
+
+- ls *s
+- ls app.{css,html} (花括号代表寻找其中任一个)
+- ls a?c
+- ls be[aeiou]r.png (方括号代表其中任何一个字母)  beer bear 
+
+- diff -u old.html new.html
 
 
 ## 参考资料
