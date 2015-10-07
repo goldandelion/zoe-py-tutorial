@@ -6,6 +6,7 @@
    * [入学三问-从这里启航](go-school.md)
    * [初心-是什么打动了我](start.md)
    * [开始使用Markdown](markdown.md)
+   * 提问的智慧
 * [Week1：搭建自己的学习环境](week1.md)
    * [Sublime配置](text-editor.md)
    * [Command Line笔记](command.md)
