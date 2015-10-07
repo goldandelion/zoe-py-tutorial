@@ -6,6 +6,7 @@
    * [入学三问-从这里启航](go-school.md)
    * [初心-是什么打动了我](start.md)
 * [Week1：搭建自己的学习环境](week1.md)
+   * [Sublime配置](text-editor.md)
    * [Git安装](git-setup.md)
    * [Git学习笔记](discovery-repo.md)
    * [Gitbook与Github互推](gitbook-github.md)
@@ -14,6 +15,5 @@
    * [Markdown](markdown.md)
    * [github](github.md)
    * [Command](command.md)
-   * [Sublime配置](text-editor.md)
    * [Python 安装/配置](setup.md)
 
