@@ -1,4 +1,4 @@
-# 第一个小游戏：guess the number
+# 小游戏：guess the number
 
 ## 分析input和output
 ### input
