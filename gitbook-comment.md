@@ -17,16 +17,17 @@
 - Gitbook中，在要编辑的书里，
 点击右上角的下拉三角形，选择Edit Book Configuration.
 - 系统会自动生成book.jason
--添加下面的内容。
-
-    {
-      "plugins": ["disqus"],
-      “pluginsConfig”: {
-      "disqus": {
-       “shortName":” “NAME-FROM-DISQUS”
-        }
+- 添加下面的内容。
+```
+{
+  "plugins": ["disqus"],
+  “pluginsConfig”: {
+  "disqus": {
+   “shortName":” “NAME-FROM-DISQUS”
     }
-    }
+}
+}
+```
 - 将NAME-FROM-DISQUS 改为上面提到注册时写的shortname。
 
 [参考链接](https://chaonet.gitbooks.io/pythoncamp0/content/Chapter-0/publish_gitbook_and_using_Disqus.html)
