@@ -1,4 +1,8 @@
 # 第一个小游戏：guess the number
+## 游戏描述-猜数字
+计算机先想出一个1-20之间的数字，我们要在6次猜测之内猜出这个数字。
+
+
 ## 思路一
 ### 分析input和output
 #### input
@@ -49,3 +53,36 @@
 
 ### 简单版本3
 - 优化游戏的文字部分，使得它更像个游戏
+
+##思路比较
+- 思路一思考起来更直观，前期思考会更多些，更能从宏观上把握架构，写出来的东西逻辑性和整体性更强
+- 思路二更能马上就开始动手写程序，并且可以马上就运行起来，每次思考过程都有一个独立的可运行的版本，然后不断去改进
+
+## 我的游戏代码参考
+```
+import random
+
+print('Hello, what is your name?')
+name=input()
+print('Hi,  ' +str(name)+ ", let's play a game - guess the number.")
+
+print('Well, I am thinking a number between 1 and 20.')
+secretNumber=random.randint(1,20)
+
+for i in range(6):
+    print('Take a guess.')
+    guess=int(input())
+
+    if guess < secretNumber:
+        print('Your guess is too low.')
+    elif guess > secretNumber:
+        print('Your guess is too high.')
+    else:
+        break # guess is correct
+
+if guess==secretNumber:
+    print('Good job! '+str(name)+', you guessed my number in '+str(i+1)+' guesses!')
+else:
+    print('Nope. I number I was thinking of was '+str(secretNumber))
+
+```
