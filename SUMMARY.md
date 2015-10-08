@@ -20,5 +20,5 @@
 * [Week2:直面生活](week2.md)
    * [工作中两种类型的事情](work-thinking.md)
    * [工作问题解决思路](work-solution.md)
-   * [小游戏：guess the number](guess_the_number.md)
+   * [编程思路探讨——小游戏：guess the number](guess_the_number.md)
 
