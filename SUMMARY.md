@@ -21,5 +21,5 @@
    * [工作中两种类型的事情](work-thinking.md)
    * [工作问题解决思路](work-solution.md)
    * [编程思路探讨——小游戏：guess the number](guess_the_number.md)
-   * Running Programs from the Command Line
+   * [Running Programs from the Command Line](running_programs_from_the_command_line.md)
 
