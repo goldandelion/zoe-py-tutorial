@@ -1,4 +1,6 @@
 # 用python打开网页
+> 更新日志  
+- 20151016 第一次-第四次尝试
 
 ## 第一次尝试 遇见webbrower
 搜索how to open web browser in python，学习到了webbrower
