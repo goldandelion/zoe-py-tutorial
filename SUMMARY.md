@@ -22,5 +22,5 @@
    * [工作问题解决思路](work-solution.md)
    * [编程思路探讨——小游戏：guess the number](guess_the_number.md)
    * [Running Programs from the Command Line](running_programs_from_the_command_line.md)
-   * [用python自动打开网页](open-web.md)
+   * [用python自动打开网页](open-web.md)
 
